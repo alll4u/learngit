@@ -6,3 +6,4 @@ A successuful PUSH!
 another push!
 Creating a new branch is quick.
 another branch dev
+Creating a new branch is quick AND simple.
